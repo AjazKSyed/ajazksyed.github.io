@@ -8,9 +8,9 @@ ajazksuw@gmail.com
 
 **Social Links**
 
-http://www.linkedin.com/in/ajazksyed
+[LinkedIn]
 
-http://www.github.com/ajazksyed
+[Github]
 
 
 # Summary
@@ -74,3 +74,5 @@ design, and sprint planning.
 [University of Washington]: http://www.uw.edu
 [GymRat]: http://gymrat.app/
 [CodePath]: https://codepath.org/
+[LinkedIn]: http://www.linkedin.com/in/ajazksyed
+[Github]: http://www.github.com/ajazksyed

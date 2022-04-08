@@ -3,10 +3,13 @@
 ## Details
 
 **Contact**
+
 ajazksuw@gmail.com
 
 **Social Links**
+
 http://www.linkedin.com/in/ajazksyed
+
 http://www.github.com/ajazksyed
 
 
@@ -19,8 +22,10 @@ I am a senior at the University of Washington with a focus in GIS and Data Scien
 ## University of Washington (Seattle, WA)
 
 * Bachelor’s of Arts in Geography: Data Science,
-[University of Washington][]
-*August 2018 — July 2022*
+
+  [University of Washington][]
+
+  *August 2018 — July 2022*
 
 
 
@@ -31,7 +36,7 @@ I am a senior at the University of Washington with a focus in GIS and Data Scien
 
 **Lead Full Stack Developer** (May 2021 - Present)
 
-Summary of your role
+Summary of role
 
 - Used React Native to talk to back end on RESTful API over HTTPS.
 - Allow users to create their account, link up with each other, and chat with each other with an in-house chat system.
@@ -45,7 +50,7 @@ Summary of your role
 
 **UI/UX Designer** (April 2020 — August 2020)
 
-Summary of your role
+Summary of role
 
 - Designed the UI of the app, step by step, using Figma.
 - Created their website in JavaScript to handle sign-ups using form elements.
@@ -58,7 +63,7 @@ Summary of your role
 
 **Tech Fellow** (June 2021 - January 2022)
 
-Summary of your role
+Summary of role
 
 - Led an Android Development course for students at University of Washington, Seattle.
 - Taught about Android UI, activity lifecycle, event handling and intents, navigation, networking, and authentication.

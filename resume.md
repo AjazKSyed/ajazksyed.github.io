@@ -32,7 +32,6 @@ I am a senior at the University of Washington with a focus in GIS and Data Scien
 
 ## GymRat LLC (Los Angeles, CA)
 *[GymRat][] is a fitness app that connects individuals by location and fitness preferences, in order to find one's new workout buddy.*
-> The app will be available in *May 2022* on the App Store!
 
 **Lead Full Stack Developer** (May 2021 - Present)
 
@@ -43,6 +42,9 @@ Summary of role
 - Created backend via Express.js framework and used MVC to talk to database.
 - Implemented PostgreSQL to make a simple relational database that uses 1:1, 1:N, and M:N relationships to build the social network for the app.
 - Designed entire UI for the app.
+
+> The app will be available in *May 2022* on the App Store!
+
 
 ## ArtCab LLC (Remote)
 *ArtCab was an app to connect professionals in the film industry to each other, basically like linkedIn for the bollywood entertainment industry.*
@@ -57,14 +59,14 @@ Summary of role
 - Created their website in JavaScript to handle sign-ups using form elements.
 - Led all product demos, explaining the app and its purpose to clients.
 
+> The app died soon after I left.
+
 # Volunteer Experience
 
 ![CodePath Logo](https://www.elevatewomeninstem.com/wp-content/uploads/2020/09/logo_codepath_org.jpg)
 
 ## CodePath (Seattle, WA)
 *[CodePath][] provides college students with no-cost coding courses, mentorship, and career support to prepare them for careers in tech.*
-
-
 
 **Tech Fellow** (June 2021 - January 2022)
 

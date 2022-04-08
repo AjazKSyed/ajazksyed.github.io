@@ -8,9 +8,9 @@ ajazksuw@gmail.com
 
 **Social Links**
 
-[http://www.linkedin.com/in/ajazksyed]
+http://www.linkedin.com/in/ajazksyed
 
-[http://www.github.com/ajazksyed]
+http://www.github.com/ajazksyed
 
 
 # Summary
@@ -23,6 +23,7 @@ I am a senior at the University of Washington with a focus in GIS and Data Scien
 
 * Bachelor’s of Arts in Geography: Data Science,
   [University of Washington][]
+
   *August 2018 — July 2022*
 
 
@@ -73,6 +74,3 @@ design, and sprint planning.
 [University of Washington]: http://www.uw.edu
 [GymRat]: http://gymrat.app/
 [CodePath]: https://codepath.org/
-[http://www.github.com/ajazksyed
-]: http://www.github.com/ajazksyed
-[http://www.linkedin.com/in/ajazksyed]: http://www.linkedin.com/in/ajazksyed

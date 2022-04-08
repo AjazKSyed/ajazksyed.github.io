@@ -2,11 +2,11 @@
 
 ## Details
 
-**Contact**
+### Contact
 
 ajazksuw@gmail.com
 
-**Social Links**
+### Social Links
 
 [LinkedIn]
 
@@ -32,6 +32,7 @@ I am a senior at the University of Washington with a focus in GIS and Data Scien
 
 ## GymRat LLC (Los Angeles, CA)
 *[GymRat][] is a fitness app that connects individuals by location and fitness preferences, in order to find one's new workout buddy.*
+> The app will be available in *May 2022* on the App Store!
 
 **Lead Full Stack Developer** (May 2021 - Present)
 
@@ -40,12 +41,13 @@ Summary of role
 - Used React Native to talk to back end on RESTful API over HTTPS.
 - Allow users to create their account, link up with each other, and chat with each other with an in-house chat system.
 - Created backend via Express.js framework and used MVC to talk to database.
-- Implemented PostgreSQL to make a simple relational database that uses.
-1:1, 1:N, and M:N relationships to build the social network for the app.
+- Implemented PostgreSQL to make a simple relational database that uses 1:1, 1:N, and M:N relationships to build the social network for the app.
 - Designed entire UI for the app.
 
 ## ArtCab LLC (Remote)
 *ArtCab was an app to connect professionals in the film industry to each other, basically like linkedIn for the bollywood entertainment industry.*
+
+[*Product Video*]
 
 **UI/UX Designer** (April 2020 — August 2020)
 
@@ -57,8 +59,12 @@ Summary of role
 
 # Volunteer Experience
 
+![CodePath Logo](https://www.elevatewomeninstem.com/wp-content/uploads/2020/09/logo_codepath_org.jpg)
+
 ## CodePath (Seattle, WA)
 *[CodePath][] provides college students with no-cost coding courses, mentorship, and career support to prepare them for careers in tech.*
+
+
 
 **Tech Fellow** (June 2021 - January 2022)
 
@@ -76,3 +82,4 @@ design, and sprint planning.
 [CodePath]: https://codepath.org/
 [LinkedIn]: http://www.linkedin.com/in/ajazksyed
 [Github]: http://www.github.com/ajazksyed
+[*Product Video*]: https://www.facebook.com/watch/?v=444181403242405

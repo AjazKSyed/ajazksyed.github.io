@@ -24,7 +24,7 @@ I am a senior at the University of Washington with a focus in GIS and Data Scien
 * Bachelor’s of Arts in Geography: Data Science,
   [University of Washington][]
 
-  *August 2018 — July 2022*
+  *August 2018 — June 2022*
 
 
 
